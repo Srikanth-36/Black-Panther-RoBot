@@ -25,7 +25,7 @@ CREDITS
 ```
 This Bot Is Developed By Srikanth ! 
 
-You Can Contact My Boss On Telegram [🎭My Boss🎭](https://t.me/Srikanth_36) 
+You Can Contact My Boss On Telegram [✨Black panther✨](https://t.me/king_Panther_Bot) 
 
 
 
