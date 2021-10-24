@@ -15,7 +15,8 @@
 </p>
 
 # YoneRobot
-Me On Telegram [✨Yone✨](https://t.me/Yone_Robot)
+Me On Telegram [✨Black panther✨](https://t.me/king_Panther_Bot
+_Robot)
 
 ## How To Host
 The easiest way to deploy this Bot
@@ -26,9 +27,9 @@ CREDITS
 ❤️ Mafia Userbot - Himanshu
 ❤️ MashaRobot = Dark Prince 
 ❤️ DaisyX = Inuka
-❤️ TheHamkerCat = WBB
 
-This Bot Is Developed By Kittu ! 
+
+This Bot Is Developed By Srikanth ! 
 
 
 
